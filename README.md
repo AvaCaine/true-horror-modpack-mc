@@ -1,3 +1,9 @@
+# True Horror+
+A Minecraft Forge modpack aimed to provide a true, eerie, horror experience. Rather than relying solely on cheap jumpscares, it provides a fun semi-vanilla minecraft experience, utilizing quality of life mods, paired with OOO.jar, providing a slow-burn experience.
+<br>
+<br>
+
+
 ## Modlist
 
 
