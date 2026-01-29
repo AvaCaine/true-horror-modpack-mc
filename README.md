@@ -6,6 +6,7 @@ A Minecraft Forge modpack aimed to provide a true, eerie, horror experience. Rat
 ## Recommended addition/s
 It is recommended that, if your computer is not a "potato" that you use shaders like Insanity or Hysteria. Hysteria is newer, but was made as a successor to be more in between, where it was a slighty more foggy eerie shader than BSL, however, Insanity is best for a true horror experience, and I personally recommend it.
 <br>
+<br>
 ## Modlist
 
 
